@@ -1,0 +1,24 @@
+div.wrapper{}
+header#header{}
+header#header div.header_wrapper{}
+header#header div.header_wrapper h1{}
+header#header div.header_wrapper h1 a{}
+header#header div.header_wrapper nav.user_navi{}
+header#header div.header_wrapper nav.user_navi a{}
+main#doc{}
+main#doc article.main_page{}
+main#doc article.main_page section{} 
+main#doc article.main_page section#con1{}
+main#doc article.main_page section.parallax_space{} 
+main#doc article.main_page section.type_slow{}
+main#doc article.main_page section div.space_bg{}
+main#doc article.main_page section div.float_1{}
+main#doc article.main_page section div.float_1 img{}
+main#doc article.main_page section div.float_2{}
+main#doc article.main_page section div.float_2 img{}
+main#doc article.main_page section h2{}
+main#doc article.main_page section h2 a{}
+main#doc article.main_page section h2 a span.title_category{}
+main#doc article.main_page section h2 a span.title_name{}
+main#doc article.main_page section#con2{}
+main#doc article.main_page section.type_fix{}
